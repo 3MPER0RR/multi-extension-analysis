@@ -24,7 +24,7 @@ python3 analyzer.py *.exe *.dll --out ./reports
 
 python3 analyzer.py sample.bin --no-disasm
 
-![screen1](screen1.png)
+![screen1](Screen1.png)
 
 
 ![screen2](screen2.png)
