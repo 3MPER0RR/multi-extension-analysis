@@ -1,5 +1,5 @@
 /*
-    NecrOS Analyzer — Custom YARA Rules
+        Custom YARA Rules
     ====================================
     Add your own rules below.
     Use: python3 analyzer.py sample.bin --yara custom_rules.yar
